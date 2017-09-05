@@ -1,0 +1,5 @@
+c:\users\alisher\documents\visual studio 2017\Projects\HomeworkException\Task2\bin\Debug\Task2.exe.config
+c:\users\alisher\documents\visual studio 2017\Projects\HomeworkException\Task2\bin\Debug\Task2.exe
+c:\users\alisher\documents\visual studio 2017\Projects\HomeworkException\Task2\bin\Debug\Task2.pdb
+c:\users\alisher\documents\visual studio 2017\Projects\HomeworkException\Task2\obj\Debug\Task2.exe
+c:\users\alisher\documents\visual studio 2017\Projects\HomeworkException\Task2\obj\Debug\Task2.pdb
